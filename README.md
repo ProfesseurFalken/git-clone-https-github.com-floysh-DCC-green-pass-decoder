@@ -4,6 +4,7 @@
   <br>
   <br>
   EU Digital COVID Certificate decoder
+  Modified by Emmanuel Wojcik - 21/01/2022 - 
   <br>
 </h1>
 
