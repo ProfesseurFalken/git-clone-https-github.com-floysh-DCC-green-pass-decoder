@@ -17,7 +17,7 @@ All the processing is done locally and your certificate never leaves your device
 
 <br>
 
-#### 🚀 Try it live on https://floysh.github.io/DCC-green-pass-decoder/
+#### 🚀 Try it live on https://ProfesseurFalken.github.io/DCC-green-pass-decoder/
 
 
 
